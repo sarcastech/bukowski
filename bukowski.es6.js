@@ -1,12 +1,12 @@
 'use strict'
 
-let defaults = {
+let defaults = Object.seal({
   speed: 50,
   element: null,
   text: '',
   counter: 0,
   cursor: '_'
-}
+})
 
 let Bukowski = function (config) {
   this.config = Object.assign(defaults, config)
