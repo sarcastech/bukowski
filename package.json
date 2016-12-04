@@ -1,0 +1,23 @@
+{
+  "name": "bukowski",
+  "version": "1.0.0",
+  "description": "Small module to produce a typing effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarcastech/bukowski.git"
+  },
+  "keywords": [
+    "type-effect",
+    "sarcastech"
+  ],
+  "author": "Sarcastech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarcastech/bukowski/issues"
+  },
+  "homepage": "https://github.com/sarcastech/bukowski#readme"
+}
